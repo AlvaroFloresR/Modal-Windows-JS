@@ -1,4 +1,4 @@
-"use: strict";
+"use strict";
 
 // QUERY SELECTORS
 const modal = document.querySelector(".modal");
